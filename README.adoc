@@ -1,0 +1,15 @@
+= README
+Sturt Ison
+:toc:
+:sectids:
+:sectanchors:
+:idseparator: -
+:hide-uri-scheme:
+:imagesdir: ./images/
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
+The readme in https://asciidoctor.org[asciidoc].
+
+== ABOUT
+This public site is rather sparse.
+Most of my work and sausage making is done inside IBM.
